@@ -1,0 +1,7 @@
+{
+  "name": "fraudlens-prototype",
+  "version": "1.0.0",
+  "description": "FraudLens - explainable AI fraud detection dashboard prototype (HackMatrix 5.0)",
+  "scripts": { "start": "npx serve ." },
+  "license": "MIT"
+}
